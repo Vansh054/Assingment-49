@@ -1,0 +1,22 @@
+body {
+    background-color:rgb(240, 248, 255);
+}
+.Top {
+    background-color: brown;
+    font-size: 0.5cm;
+    color: rgb(196, 120, 119);
+    background-color: rgb(105, 105, 105);
+}
+
+.Middle {
+    font-size: 0.6cm;
+}
+
+.item img {
+    border: solid black 4px;
+    border-radius: 50px;
+}
+
+.item {
+   font-family: "Lucida Console", "Courier New", monospace
+}
